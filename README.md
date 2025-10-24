@@ -1,8 +1,6 @@
 # Merhaba! Ben Hatice Kübra 👋
 
-Ben Bilgisayar Mühendisliği 4. sınıf öğrencisiyim.
-
-Yapay zeka (AI/ML) ve web geliştirme alanlarına ilgi duyuyorum. Yeni teknolojileri öğrenmeyi ve kendimi bu alanlarda geliştirmeyi seviyorum!
+Bilgisayar Mühendisliği 4. sınıf öğrencisiyim. Yapay zeka (AI/ML) ve web geliştirme alanlarına ilgi duyuyorum. Yeni teknolojileri öğrenmeyi ve kendimi bu alanlarda geliştirmeyi seviyorum!
 
 
 ### Diller ve Frameworkler
