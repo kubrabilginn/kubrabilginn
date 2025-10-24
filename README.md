@@ -1,16 +1,43 @@
-## Hi there 👋
+# Merhaba! Ben Hatice Kübra 👋
 
-<!--
-**kubrabilginn/kubrabilginn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ben Bilgisayar Mühendisliği 4. sınıf öğrencisiyim.
 
-Here are some ideas to get you started:
+Yapay zeka (AI/ML) ve web geliştirme alanlarına özel bir ilgim var. Yeni teknolojileri öğrenmeyi ve kendimi bu alanlarda geliştirmeyi seviyorum!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Benim Teknoloji Yelpazem
+
+Şu anda çalıştığım başlıca diller, frameworkler ve araçlar:
+
+### Diller ve Frameworkler
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
+
+### Veritabanı ve Araçlar
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/AI/ML%20Frameworks-FF69B4?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI/ML Frameworks" />
+  </p>
+
+---
+
+## 📫 Benimle Bağlantı Kurun
+
+Proje fikirleri, iş birlikleri veya sadece bir merhaba demek için çekinmeyin!
+
+| İletişim Kanalı | Bilgi |
+| :--- | :--- |
+| **LinkedIn** | [linkedin.com/in/hatice-kübra-bilgin-5540b132b](https://www.linkedin.com/in/hatice-kübra-bilgin-5540b132b) |
+| **E-posta** | htckbrblgn412@hotmail.com |
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/hatice-kübra-bilgin-5540b132b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
