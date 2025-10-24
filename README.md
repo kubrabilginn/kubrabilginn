@@ -2,13 +2,8 @@
 
 Ben Bilgisayar Mühendisliği 4. sınıf öğrencisiyim.
 
-Yapay zeka (AI/ML) ve web geliştirme alanlarına özel bir ilgim var. Yeni teknolojileri öğrenmeyi ve kendimi bu alanlarda geliştirmeyi seviyorum!
+Yapay zeka (AI/ML) ve web geliştirme alanlarına ilgi duyuyorum. Yeni teknolojileri öğrenmeyi ve kendimi bu alanlarda geliştirmeyi seviyorum!
 
----
-
-## 🚀 Benim Teknoloji Yelpazem
-
-Şu anda çalıştığım başlıca diller, frameworkler ve araçlar:
 
 ### Diller ve Frameworkler
 <p align="left">
@@ -28,8 +23,6 @@ Yapay zeka (AI/ML) ve web geliştirme alanlarına özel bir ilgim var. Yeni tekn
 ---
 
 ## 📫 Benimle Bağlantı Kurun
-
-Proje fikirleri, iş birlikleri veya sadece bir merhaba demek için çekinmeyin!
 
 | İletişim Kanalı | Bilgi |
 | :--- | :--- |
