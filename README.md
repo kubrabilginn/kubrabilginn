@@ -24,12 +24,6 @@
 </p>
   <a href="https://unity.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="50" height="50"/> </a>
 
-### 📊 GitHub İstatistiklerim
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kubrabilginn&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kubrabilginn&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=6)
-
 ![Visitor Count](https://komarev.com/ghpvc/?username=kubrabilginn&label=Profil+Görüntülenme&color=blueviolet&style=flat)
 ---
 
