@@ -1,32 +1,47 @@
-# Merhaba! Ben Hatice Kübra 👋
-
-Bilgisayar Mühendisliği 4. sınıf öğrencisiyim. Yapay zeka (AI/ML) ve web geliştirme alanlarına ilgi duyuyorum. Yeni teknolojileri öğrenmeyi ve kendimi bu alanlarda geliştirmeyi seviyorum!
+<div align="center">
 
 
-### Diller ve Frameworkler
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-</p>
+### 💻 Bilgisayar Mühendisliği Öğrencisi
 
-### Veritabanı ve Araçlar
-<p align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/AI/ML%20Frameworks-FF69B4?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI/ML Frameworks" />
-  </p>
+###  Hakkımda
+
+- 🔭 Şu anda **yapay zeka, web geliştirme** ve **oyun geliştirme** alanlarına ilgi duyuyorum.
+- 🌱 Spring Boot ve modern JavaScript frameworkleri ile mimari yeteneklerimi geliştiriyorum.
 
 ---
 
-## 📫 Benimle Bağlantı Kurun
+### 🛠️ Kullandığım Teknolojiler ve Araçlar
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/hatice-kübra-bilgin-5540b132b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;&nbsp; <a href="mailto:htckbrblgn412@hotmail.com">
+<p align="center">
+  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> </a>
+  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a>
+  <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/> </a>
+  
+  <a href="https://spring.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="50" height="50"/> </a>
+  <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="50" height="50"/> </a>
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="50" height="50"/> </a>
+</p>
+  <a href="https://unity.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="50" height="50"/> </a>
+
+### 📊 GitHub İstatistiklerim
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kubrabilginn&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kubrabilginn&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=6)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=kubrabilginn&label=Profil+Görüntülenme&color=blueviolet&style=flat)
+---
+
+### 📫 İletişim
+
+<p align="center">
+  <a href="htckbrblgn412@hotmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <a href="https://linkedin.com/in/Hatice Kübra Bilgin">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
+
+</div>
